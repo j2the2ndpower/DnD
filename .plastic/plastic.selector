@@ -1,4 +1,0 @@
-repository "DarkAndDarkerClone@j2the2ndpower@cloud"
-  path "/"
-    br "/main"
-    co "/main"
